@@ -1,3 +1,6 @@
 [submodule "temp/temp/Adafruit_Python_DHT"]
 	path = temp/temp/Adafruit_Python_DHT
 	url = https://github.com/Seungjun521/rasberry.git
+[submodule "temp/cc863375a6e19dce359d"]
+	path = temp/cc863375a6e19dce359d
+	url = http://gist.github.com/DenisFromHR/cc863375a6e19dce359d
